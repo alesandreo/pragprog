@@ -27,4 +27,15 @@ As programmers, our knowledge is our biggest asset. It should be improved upon *
 ## 9. Critically Analyze What You Read and Hear
 Everything that enters your head should be filtered and compared to what you already know. Don't just take things *as is*, make sure it's right.
 
+## 10. It's Both What You Say and How You Say It
+Content is only half of it. Having an idea and communicating it effectively is just as important.
+
+## 11. DRY -- Don't Repeat Yourself
+...
+
+## 12. Make It Easy to Reuse
+To keep up with the DRY principle, make things with others in mind.
+
+## 13. Eliminate Effects Between Unrelated Things
+When designing things, keep them independent which will make them easier to use.
 
