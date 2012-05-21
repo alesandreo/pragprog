@@ -11,3 +11,10 @@ By the same token, if you find yourself on a team and a project where the code i
 
 ##### page 12:
 "An investment in knowledge always pays the best interest" -- Benjamin Franklin
+
+##### page 35:
+We want to design components that are self-contained: independent, and with a single, well-defined purpose (what Yourdon and Constantine call *cohesion*). When components are isolated from one another, you know that you can change one without having to worry about the rest. As long as you don't change that component's external interfaces, you can be comfortable that you won't cause problems that ripple through the entire system.
+
+##### page 41:
+Get into the habit of being constantly critical of your code. Look for any opportunities to reorganize it to improve its structure and orthogonality. This process is called *refactoring*, and it's so important that we've dedicated a section to it.
+
