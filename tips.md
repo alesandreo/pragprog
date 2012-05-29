@@ -39,3 +39,11 @@ To keep up with the DRY principle, make things with others in mind.
 ## 13. Eliminate Effects Between Unrelated Things
 When designing things, keep them independent which will make them easier to use.
 
+## 14. There Are No Final Decisions
+Nothing should be set in stone.
+
+## 15. Use Tracer Bullets to Find the Target
+Use tracer bullets in code to hone in on your target. Being close gives more advantages than not knowing where your target is.
+
+## 16. Prototype to Learn
+The code doesn't matter. The only thing that matters is that you learn how something works.
