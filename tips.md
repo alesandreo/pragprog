@@ -47,3 +47,30 @@ Use tracer bullets in code to hone in on your target. Being close gives more adv
 
 ## 16. Prototype to Learn
 The code doesn't matter. The only thing that matters is that you learn how something works.
+
+## 17. Program Close to the Problem Domain
+Coding at a higher level of abstraction leaves you able to concentrate on solving domain problems.
+
+## 18. Estimate to Avoid Surprises
+Making a thorough and accurate estimate on a project can help spot problems up front.
+
+## 19. Iterate the Schedule with the Code
+Make adjustments as you go to keep the schedule as accurate as possible.
+
+## 20. Keep Knowledge in Plain Text
+Simpler is always better.
+
+## 21. Use the Power of Command Shells
+Utilize the tools you have to do you best work.
+
+## 22. Use a Single Editor Well
+In other words, learn VIM really well ;)
+
+## 23. Always Use Source Code Control
+This is a must for any serious developer.
+
+## 24. Fix the Problem, Not the Blame
+Blaming someone for a bug is pointless, rather than doing that, just fix it.
+
+## 25. Don't Panic
+In the spirit of Douglas Adams, this belongs on any list ;)
