@@ -110,3 +110,30 @@ Avoid coupling by writing "shy" code and applying the Law of Demeter.
 
 ## 37. Configure, Don't Integrate
 Implement technology choices for an application as configuration options, not through integration or engineering.
+
+## 38. Put Abstractions in Code, Details in Metadata
+Program for the general case, and put the specifics outside the compiled code base.
+
+## 39. Analyze Workflow to Improve Concurrency
+Exploit concurrency in your user's workflow.
+
+## 40. Design Using Services
+Design in terms of *services*--independent, concurrent objects behind well-defined, consistent interfaces.
+
+## 41. Always Design Concurrency
+Allow for concurrency, and you'll design cleaner interfaces with fewer assumptions.
+
+## 42. Separate Views from Models
+Gain flexibility at low cost by designing your application in terms of models and views.
+
+## 43. Use Blackboards to Coordinate Workflow
+Use blackboards to coordinate disparate facts and agents, while maintaining independence and isolation amont participants.
+
+## 44. Don't Program by Coincidence
+Rely on reliable things. Beware of accidental complexity, and don't confuse a happy coincidence with a purposeful plan.
+
+## 45. Estimate the Order of Your Algorithms
+Get a feel for how long things are likely to take before you write code.
+
+## 46. Test Your Estimates
+Mathematical analysis of algorithms doesn't tell you everything. Try aiming your code in its target environment.
