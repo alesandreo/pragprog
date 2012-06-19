@@ -18,3 +18,6 @@ We want to design components that are self-contained: independent, and with a si
 ##### page 41:
 Get into the habit of being constantly critical of your code. Look for any opportunities to reorganize it to improve its structure and orthogonality. This process is called *refactoring*, and it's so important that we've dedicated a section to it.
 
+#### page 96:
+Remember, if you see hoof prints, think horses -- not zebras. The OS is probably not broken. And the database is probably just fine.
+

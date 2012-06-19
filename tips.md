@@ -74,3 +74,24 @@ Blaming someone for a bug is pointless, rather than doing that, just fix it.
 
 ## 25. Don't Panic
 In the spirit of Douglas Adams, this belongs on any list ;)
+
+## 26. "select" Isn't Broken
+Basically the bug most likely resides in your code, not the OS, compiler, or third party libraries.
+
+## 27. Don't Assume It--Prove It
+Prove your assumptions in the actual environment--with real data and boundary conditions.
+
+## 28. Learn a Text Manipulation Language
+You spend a large part of each day working with text. Why not have the computer do some of it for you?
+
+## 29. Write Code That Writes Code
+Code generators increase your productivity and help avoid duplication.
+
+## 30. You Can't Write Perfect Software
+Software can't be perfect. Protect your code and users from the inevitable errors.
+
+## 31. Design with Contracts
+Use contracts to document and verify that code does no more and no less that it claims to do.
+
+## 32. Crash Early
+A dead program normally does a lot less damage than a crippled one.
