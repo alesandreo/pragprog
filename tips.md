@@ -95,3 +95,18 @@ Use contracts to document and verify that code does no more and no less that it 
 
 ## 32. Crash Early
 A dead program normally does a lot less damage than a crippled one.
+
+## 33. Use Assertios to Prevent the Impossible
+Assertions validate your assumptions. Use them to protect your code from an uncertain world.
+
+## 34. Use Exceptions for Exceptional Problems
+Exceptions can suffer from all the readability and maintainability problems of classic spaghetti code. Reserve exceptions for exceptional things.
+
+## 35. Finish What You Start
+Where possible, the routine or object that allocates a resource should be responsible for deallocating it.
+
+## 36. Minimize Coupling Between Modules
+Avoid coupling by writing "shy" code and applying the Law of Demeter.
+
+## 37. Configure, Don't Integrate
+Implement technology choices for an application as configuration options, not through integration or engineering.
