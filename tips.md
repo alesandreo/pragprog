@@ -176,3 +176,36 @@ Don't blindly adopt any technique without putting it into the context of your de
 
 ## 59. Costly Tools Don't Produce Better Designs
 Beware of vendor hype, industry dogma, and the aura of the price tag. Judge tools on their merits.
+
+## 60. Organize Teams Around Functionality
+Don't separate designers from coders, testers from data modelers. Build teams the way you build code.
+
+## 61. Don't Use Manual Procedures
+A shell script or batch file will execute the same instructions, in the same order, time after time.
+
+## 62. Test Early. Test Often. Test Automatically.
+Tests that run with every build are much more effective than test plans that sit on a shelf.
+
+## 63. Coding Ain't Done 'Til All the Tests Run
+'Nuff said.'
+
+## 64. Use Saboteurs to Test Your Testing
+Intoduce bugs on purpose in a separate copy of the source to verify that testing will catch them.
+
+## 65. Test State Coverage, Not Code Coverage
+Identify and test significant program states. Just testing lines of code isn't enough.
+
+## 66. Find Bugs Once
+Once a human test finds a bug, it should be the *last* time a human tester finds the bug. Automatic tests should check for it form then on.
+
+## 67. English is Just a Programming Language
+Write documents as you would write code: honor the DRY principle, use metadata, MVC, automatic generation, and so on.
+
+## 68. Build Documentation In, Don't Bolt It On
+Documentation created separately from code is less likely to be correct and up to date.
+
+## 69. Gently Exceed Your Users' Expectations
+Come to understand your users' expectations, then deliver just that little bit more.
+
+## 70. Sign Your Work
+Craftsmen of an earlier age were proud to sign their work. You should be, too.
