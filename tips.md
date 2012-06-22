@@ -137,3 +137,42 @@ Get a feel for how long things are likely to take before you write code.
 
 ## 46. Test Your Estimates
 Mathematical analysis of algorithms doesn't tell you everything. Try aiming your code in its target environment.
+
+## 47. Refactory Early, Refactor Often
+Just as you might weed and rearrange a garden, rewrite, rework, and re-architect code when it needs it. Fix the root of the problem.
+
+## 48. Design to Test
+Start thinking about testing before you write a line of code.
+
+## 49. Test Your Software, or Your Users Will
+Test ruthlessly. Don't make your users find bugs for you.
+
+## 50. Don't Use Wizard Code You Don't Understand
+Wizards can generate reams of code. Make sure you understand *all* of it before you incorporate it into your project.
+
+## 51. Don't Gather Requirements--Dig for Them
+Requirements rarely lie on the surface. They're buried deep beneath layers of assumptions, misconceptions, and politics.
+
+## 52. Work with a User to Think Like a User
+It's the best way to gain insight into how the system will *really* be used
+
+## 53. Abstractions Live Longer than Details
+Invest in the abstraction, not the implementation. Abstractions can survive the barrage of changes from different implementations and new technologies.
+
+## 54. Use a Project Glossary
+Create an maintain a single source of al the specific terms and vocabulary for a project.
+
+## 55. Don't Think Outside the Box--*Find* the Box
+When faced with an impossible problem, identify the *real* constraints. Ask yourself: "Does it have to be done this way? Does it have to be done at all?"
+
+## 56. Start When You're Ready
+You've been building experience all your life. Don't ignore niggling doubts.
+
+## 57. Some Things Are Better Done than Described
+Don't fall into the specification spiral==at some point you need to start coding.
+
+## 58. Don't Be a Slave to Formal Methods
+Don't blindly adopt any technique without putting it into the context of your development practices and capabilities.
+
+## 59. Costly Tools Don't Produce Better Designs
+Beware of vendor hype, industry dogma, and the aura of the price tag. Judge tools on their merits.
